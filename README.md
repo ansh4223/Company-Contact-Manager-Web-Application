@@ -9,7 +9,8 @@ Plugin Used ->	Datatable
 
 
 Workflow Diagram:-
- ![plot](https://drive.google.com/file/d/1qhFW0ycaFyKJN6JBiYZHEg96gaIZ4fJp/view?usp=sharing)
 
- 
+
+ ![Flow_Dia (1)](https://user-images.githubusercontent.com/52701083/162555346-ee2ff29d-df79-4683-9f2c-8438f2b69ab7.jpg)
+
 
